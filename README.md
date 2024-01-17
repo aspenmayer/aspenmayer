@@ -1,4 +1,12 @@
-### Hi there 👋
+### hello, friend 👋
+
+- 😄 Pronouns: he/him
+
+- 🌱 I’m currently learning about OSINT, RCEs, 0-days, privilege escalation, network exploitation, data analysis/visualization, and graph theory.
+
+- 🔭 I’m currently working on library sytems.
+
+- 📫 How to reach me: Twitter/Mastodon (links in bio)
 
 <!--
 **aspenmayer/aspenmayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
